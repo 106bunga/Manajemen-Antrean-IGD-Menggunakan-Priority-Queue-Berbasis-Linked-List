@@ -56,7 +56,7 @@ Aplikasi ini dibangun menggunakan ekosistem teknologi modern Python:
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal Anda:
 1. **Instalasi Dependensi Utama**
    ```bash
-   pip install kiwi kivymd matplotlib
+   pip install kivy kivymd matplotlib
 2. Pastikan file gambar `bg.jpg` berada di direktori yang sama dengan kode program.
 3. Jalankan aplikasi melalui terminal atau command prompt:
    ```bash
