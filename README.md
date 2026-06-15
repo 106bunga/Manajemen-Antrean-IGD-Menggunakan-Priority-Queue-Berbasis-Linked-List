@@ -37,8 +37,8 @@ Struktur Data Inti: Custom Single Linked List (`NodePasien` & `SistemAntreanIGD`
 
 Panduan Instalasi & Pengoperasian
 Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah di bawah ini:
-# 1. Pastikan library dependensi utama sudah terinstal
+1. Pastikan library dependensi utama sudah terinstal
 pip install kivy kivymd matplotlib
-# 2. Letakkan igd.py, main.py, dan bg.jpg di dalam satu direktori
-# 3. Jalankan aplikasi utama melalui terminal
+2. Letakkan igd.py, main.py, dan bg.jpg di dalam satu direktori
+3. Jalankan aplikasi utama melalui terminal
 python main.py
