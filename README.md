@@ -60,4 +60,4 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
 2. Pastikan file gambar `bg.jpg` berada di direktori yang sama dengan kode program.
 3. Jalankan aplikasi melalui terminal atau command prompt:
    ```bash
-python main.py
+   python main.py
